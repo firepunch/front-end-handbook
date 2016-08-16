@@ -1,8 +1,8 @@
-# Front-End Developer Handbook
+# 프론트-엔드 개발자 가이드북
 
 Written by [Cody Lindley](http://codylindley.com/) sponsored by — [Frontend Masters](https://frontendmasters.com/)
 
-This is a guide that anyone could use to learn about the practice of front-end development. It broadly outlines and discusses the practice of front-end engineering: how to learn it and what tools are used when practicing it.
+이 가이드는 누구나 프론트-엔드 개발을 위해 사용할 수 있습니다. It broadly outlines and discusses the practice of front-end engineering: how to learn it and what tools are used when practicing it.
 
 It is specifically written with the intention of being a professional resource for potential and currently practicing front-end developers to equip themselves with learning materials and development tools. Secondarily, it can be used by managers, CTOs, instructors, and head hunters to gain insights into the practice of front-end development.
 
